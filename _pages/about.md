@@ -29,4 +29,4 @@ I'm a research scientist at the MIT Energy Initiative, where I am the Energy Sys
 
 I am a co-lead developer of the [MacroEnergy](https://github.com/macroenergy/MacroEnergy.jl), [GenX](https://github.com/GenXProject/GenX.jl), [Dolphyn](https://github.com/macroenergy/Dolphyn.jl), and Navi tools.
 
-I'm originally from the UK & completed my PhD in Nuclear Science & Engineering at MIT.
+I completed my PhD in Nuclear Science & Engineering at MIT.
